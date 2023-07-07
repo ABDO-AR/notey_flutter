@@ -1,0 +1,66 @@
+# Meta:
+name: notey_flutter
+description: Simple Notes Taking Application Using Hive DB & MVC Architectural Pattern.
+publish_to: 'none'
+version: 1.0.0+1
+
+# Environment:
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+# Dependencies:
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: any
+  cupertino_icons: ^1.0.5
+  get: ^4.6.5
+  flutter_staggered_grid_view: ^0.6.2
+  animated_splash_screen: ^1.3.0
+  page_transition: ^2.0.9
+  flutter_svg: ^2.0.7
+  flutter_dialogs: ^3.0.0
+  flutter_switch: ^0.3.2
+  equatable: ^2.0.5
+  google_fonts: ^5.1.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  variable_app_icon: ^0.0.2
+  get_storage: ^2.1.1
+
+# Overridden Dependencies:
+dependency_overrides:
+  xml: ^6.3.0
+
+# Development Dependencies:
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.6
+  flutter_launcher_icons: ^0.13.1
+  flutter_app_name: ^0.1.1
+  flutter_lints: ^2.0.2
+  mockito: ^5.4.2
+
+# This package help quickly change the name of our application,
+# and to run it use this 'dart run flutter_app_name'
+flutter_app_name:
+  name: "Notey"
+
+# This package help quickly change the logo of our application,
+# and to run it use this 'dart run flutter_launcher_icons'
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo/ic_logo_light.png"
+
+# Flutter:
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/logo/

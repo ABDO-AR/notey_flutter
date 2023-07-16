@@ -5,7 +5,7 @@
 > Basic note application created by [**ABDO-AR**](https://github.com/ABDO-AR), using the Flutter framework based on the
 > MVC archticutre.
 
-![Cover Picture](/assets/images/cover.png)
+![Cover Picture](./assets/images/cover.png)
 
 ###### My Portfolio [Here](https://).
 

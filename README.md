@@ -2,7 +2,8 @@
 
 ---
 
-> Basic note application created by [**ABDO-AR**](https://github.com/ABDO-AR), using the Flutter framework based on the MVC archticutre.
+> Basic note application created by [**ABDO-AR**](https://github.com/ABDO-AR), using the Flutter framework based on the
+> MVC archticutre.
 
 ![Cover Picture](/assets/images/cover.png)
 
@@ -22,11 +23,17 @@ Run the following commands from your terminal:
 
 ---
 
-1. [Android - APK](https://)
+1. [Android - APK](https://drive.google.com/file/d/1-4w-mBcYWkE7JTwWaaPuLQKZXh8G7_gt/view?usp=drive_link)
 
-## Screenshots & Preview Video
+## Screenshots & Quick Video
 
 ---
+
+Quick Video
+
+[<img src="./assets/images/thumbnail.jpg" width="100%">](https://www.youtube.com/watch?v=F-F9IWqJk30 "Notey | Basic Flutter Application with The MVC Architecture.")
+
+Screenshots
 
 <table width="100%">
   <tbody>

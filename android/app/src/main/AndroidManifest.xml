@@ -26,7 +26,7 @@
 
         <activity-alias
                 android:name="appicon.DARK"
-                android:enabled="true"
+                android:enabled="false"
                 android:exported="true"
                 android:icon="@mipmap/ic_logo_dark"
                 android:label="Notey"

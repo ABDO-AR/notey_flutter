@@ -3,7 +3,7 @@
 ---
 
 > Basic note application created by [**ABDO-AR**](https://github.com/ABDO-AR), using the Flutter framework based on the
-> MVC archticutre.
+> MVC architecture.
 
 ![Cover Picture](./assets/images/cover.png)
 
@@ -53,6 +53,28 @@ Screenshots
     </tr>
   </tbody>
 </table>
+
+## Features
+
+---
+
+- CRUD Operations in notes.
+- Dark & Light theme.
+- Dark & Light application icon can be changed at the runtime by the user.
+
+## Used Packages
+
+---
+
+- [Get](https://pub.dev/packages/get)
+- [Get Storage](https://pub.dev/packages/get_storage) 
+- [Hive](https://pub.dev/packages/hive) 
+- [Hive Flutter](https://pub.dev/packages/hive_flutter) 
+- [Google Fonts](https://pub.dev/packages/google_fonts) 
+- [Equatable](https://pub.dev/packages/equatable) 
+- [Flutter Switch](https://pub.dev/packages/flutter_switch) 
+- [Flutter Dialogs](https://pub.dev/packages/flutter_dialogs) 
+- [Flutter SVG](https://pub.dev/packages/flutter_svg) 
 
 ## LICENSE
 

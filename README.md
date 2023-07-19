@@ -19,6 +19,19 @@ Run the following commands from your terminal:
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
+## Linter & Code Quality
+
+---
+
+To check the code quality with Flutter Analyzer (recommended when you want to add something) please run in console:
+
+    flutter analyze
+
+It should give no errors message:
+
+    Analyzing notey_flutter...
+    No issues found! (ran in 3.5s)
+
 ## Preview Download Links
 
 ---
